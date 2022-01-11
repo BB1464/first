@@ -1,1 +1,1 @@
-## Readme files for my demo  repo
+## This repository contains files used for my demo blogpost.
